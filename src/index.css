@@ -16,13 +16,13 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  overflow: hidden;
 }
 
 .container {
   position: relative;
   display: flex;
   justify-content: space-between;
-  overflow: hidden;
 }
 
 .navbar {
