@@ -106,7 +106,6 @@ span {
 }
 
 .error {
-  /* display: none; */
   font-size: 0.8em;
   margin-left: 2em;
   color: var(--soft-red);
@@ -120,6 +119,7 @@ span {
   body {
     overflow: visible;
     background-image: none;
+    overflow-x: hidden;
   }
 
   .container {
